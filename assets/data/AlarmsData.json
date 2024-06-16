@@ -1,0 +1,19 @@
+{
+  "Times": [
+    {
+      "id": 0,
+      "title": "Work",
+      "time": 661651,
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "isEnabled": true
+    }
+  ]  
+}
